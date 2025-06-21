@@ -20,4 +20,4 @@ Clone this repository to your local machine:
 
 ```bash
 git clone https://github.com/tepegozersin/SQLDataAnalysis.git
-cd sql-final-project
+cd SQLDataAnalysis
